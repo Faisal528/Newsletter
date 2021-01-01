@@ -55,10 +55,10 @@ a{
 
 .newsletter h1{
 	font-size: 42px;
-	background-color: #2F323A;
+	background-color: none;
 	font-weight: 600;
 	margin-bottom: 20px;
-	font font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -72,7 +72,7 @@ a{
 
 .input-1{
 	width: 25%;
-	padding:  18px;
+	padding: 18px;
 	background-color: transparent;
 	border: 1px solid black;
 }
@@ -99,9 +99,7 @@ a{
 	cursor: pointer;
 }
 
-.newletter{
 
-}
 
 
 
